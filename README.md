@@ -1,2 +1,1 @@
-# customize-appointments-month-agenda-view-schedule-wpf
-How to customize the appointment of Month agenda view in WPF Schedule (SfScheduler)
+**[View document in our Syncfusion WPF knowledge base](https://www.syncfusion.com/kb/12232/how-to-customize-the-appointment-of-month-agenda-view-in-wpf-schedule-sfscheduler)**
